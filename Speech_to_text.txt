@@ -1,0 +1,36 @@
+# Objective
+The primary objective of this internship assignment is to evaluate your proficiency in natural
+language processing by developing a highly accurate transcription model for the Marathi
+language. This entails creating a robust model that can accurately transcribe spoken
+Marathi content. You will be provided with a test dataset, and you are encouraged to use
+open source datasets to enhance the model's performance and training.
+
+# Data
+Please download the assignment folder from here.
+Audio files and corresponding transcriptions are stored in a designated folder.
+- The provided folder contains audio files and a text file that includes the names of the
+audio files along with their respective transcriptions.
+
+# Output
+1. Metric Selection: Carefully choose and justify the use of appropriate metrics that
+optimise the model's performance.
+2. Model Development: Implement a state-of-the-art natural language processing model
+for transcription. You can leverage any existing architecture.
+3. Code Implementation: Provide clear and well-commented code that demonstrates the
+implementation of the transcription model. Ensure that your code is organised, efficient, and
+easy to follow.
+4. Comprehensive Documentation: Accompany your code with comprehensive
+documentation that guides readers through the transcription model implementation
+process. Include detailed explanations of the model selection, data preprocessing
+techniques, training methodology, and hyperparameter tuning. Provide instructions for
+replicating your results.
+5. Testing and Evaluation: Evaluate the model's performance using the designated test
+dataset. Report the results using the chosen metrics, and discuss the model's strengths and
+limitations.
+
+# Note
+You are permitted to utilise any open-source data for training purposes, excluding the data
+we have provided.
+
+# Result
+The result shows the transcribe audio and Evaulation metric of the model Word Error Rate(Wer) compared to the given reference file
