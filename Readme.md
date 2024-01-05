@@ -22,6 +22,9 @@ open source datasets to enhance the model's performance and training.
 -	The project utilizes the Hugging Face Whisper small ASR models for automatic speech recognition. Fine-tuning strategies.
 - Hugging face : https://huggingface.co/
 
+## Test Dataset:
+Data - https://drive.google.com/drive/folders/1MarQPhe-jhKF9ZwZgxh_UoctTVK-h99R
+
 ## Evaluation Metrics:
 
 -	Word Error Rate (WER) is employed as the primary metric for evaluating model performance. 
